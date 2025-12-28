@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Crazy World",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2025-12-28T04:56:51.741305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Fettes Brot",
+      "has_synced": true,
+      "path": "select/01_Crazy_World_Fettes_Brot.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Jeezy",
+      "has_synced": true,
+      "path": "select/02_Crazy_World_Jeezy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Young Jeezy",
+      "has_synced": false,
+      "path": "select/03_Crazy_World_Young_Jeezy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Opus",
+      "has_synced": false,
+      "path": "select/04_Crazy_World_Opus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/05_Crazy_World_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Crazy World Like This",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/06_A_Crazy_World_Like_This_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Living In a Crazy World",
+      "artist": "Fra Lippo Lippi",
+      "has_synced": true,
+      "path": "select/07_Living_In_a_Crazy_World_Fra_Lippo_Lippi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Autograph",
+      "has_synced": false,
+      "path": "select/08_Crazy_World_Autograph.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/09_Crazy_World_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy World - Live",
+      "artist": "Scorpions",
+      "has_synced": false,
+      "path": "select/10_Crazy_World_-_Live_Scorpions.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Ladyhawke",
+      "has_synced": true,
+      "path": "select/11_Crazy_World_Ladyhawke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Henry Mancini feat. James Galway",
+      "has_synced": false,
+      "path": "select/12_Crazy_World_Henry_Mancini_feat._James_Galway.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/13_Crazy_World_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Boys Like Girls",
+      "has_synced": true,
+      "path": "select/14_Crazy_World_Boys_Like_Girls.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Safe In A Crazy World",
+      "artist": "Corrinne May",
+      "has_synced": false,
+      "path": "select/15_Safe_In_A_Crazy_World_Corrinne_May.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/16_Crazy_World_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crazy World",
+      "artist": "Ace",
+      "has_synced": false,
+      "path": "select/17_Crazy_World_Ace.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crazy World",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_Crazy_World_VOLTACTION.txt"
+    }
+  ]
+}
